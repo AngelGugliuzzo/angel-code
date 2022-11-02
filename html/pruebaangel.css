@@ -1,0 +1,12 @@
+.titulo {
+    background-color: rgb(58, 226, 43);
+    text-transform: uppercase;
+    grid-column: auto;
+    border: brown;
+    align-items: center;
+}
+.pru2{
+    border: brown;
+    align-items: center;
+    
+}
